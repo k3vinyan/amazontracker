@@ -1,0 +1,8 @@
+div .main-header {
+  border-style: solid;
+  border-color: black;
+}
+.main-container {
+  display: flex;
+  justify-content: center;
+}
